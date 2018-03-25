@@ -89,7 +89,7 @@ void happy()
 }
 void quit()
 {
-	printf("are you sure ? Y/N\t");
+	printf("are you sssure ? Y/N\t");
 	char flag;
 	scanf("%s",&flag);
 	if(flag=='Y'||flag == 'y'){
